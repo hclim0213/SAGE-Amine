@@ -13,20 +13,16 @@ This is additional supplementary data in "Extension of Scoring-Assisted Generati
 All source codes would be uploaded after acceptance.
 
 # Prerequisites
--------------
 * LINUX/UNIX Cluster Machines (Ubuntu 20.04)
 * Python 3.7
 
 # Contact Person
---------------
 * Dr. Hocheol Lim (ihc0213@yonsei.ac.kr)
 
 # Acknowledgments
----------------
 This research was supported by Quantum Advantage challenge research based on 
 Quantum Computing through the National Research Foundation of Korea (NRF) 
 funded by the Ministry of Science and ICT (RS-2023-00257288).
 
 # How to Cite
-----------
 Lim, H. "Extension of Scoring-Assisted Generative Exploration for Amines (SAGE-Amine) and Its Application to Amine Design for CO2 Absorption"
