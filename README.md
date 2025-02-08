@@ -15,7 +15,7 @@ All source codes would be uploaded after acceptance.
 * LINUX/UNIX Cluster Machines (Ubuntu 20.04)
 * Python 3.7
 
-# Contact Person
+# Contact
 * Dr. Hocheol Lim (ihc0213@yonsei.ac.kr)
 
 # Acknowledgments
