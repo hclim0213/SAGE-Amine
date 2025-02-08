@@ -3,7 +3,6 @@
 ![Graphical Abstract](https://github.com/user-attachments/assets/b1d1bf83-ef0c-4144-af6e-cdb592cd2045)
 
 # What is SAGE-Amine?
-----------------
 **Scoring-Assisted Generative Exploration for Amine (SAGE-Amine)** is an advanced extension of [Scoring-Assisted Generative Exploration](https://github.com/hclim0213/SAGE/tree/main), specifically tailored for Amine.
 It employs natural language processing techniques, including LSTM, Transformer, Transformer Decoder, and modified Transformer Decoder (X-Transformer Decoder), to generate Amines. 
 These generated amines are then evaluated using multiple QSPR models to assess key physicochemical properties relevant to CO2 absorption.
