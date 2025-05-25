@@ -8,8 +8,7 @@ It employs natural language processing techniques, including LSTM, Transformer, 
 These generated amines are then evaluated using multiple QSPR models to assess key physicochemical properties relevant to CO2 absorption.
 
 # Notes
-This is additional supplementary data in "Extension of Scoring-Assisted Generative Exploration for Amines (SAGE-Amine) and Its Application to Amine Design for CO2 Absorption"
-All source codes would be uploaded after acceptance.
+This is additional supplementary data in "SAGE-Amine: Generative Amine Design with Multi-Property Optimization for Efficient CO2 Capture"
 
 # Prerequisites
 * LINUX/UNIX Cluster Machines (Ubuntu 20.04)
@@ -32,4 +31,5 @@ Quantum Computing through the National Research Foundation of Korea (NRF)
 funded by the Ministry of Science and ICT (RS-2023-00257288).
 
 # How to Cite
-Lim, Hocheol, Hyein Cho, and Jeonghoon Kim. "SAGE-Amine: Generative Amine Design with Multi-Property Optimization for Efficient CO2 Capture." arXiv preprint arXiv:2503.02534 (2025).
+Lim, Hocheol, Hyein Cho, Jeonghoon Kim, and Kyoung Tai No., "SAGE-Amine: Generative Amine Design with Multi-Property Optimization for Efficient CO2 Capture" arXiv preprint arXiv:2503.02534 (2025).
+Accepted to publish in Carbon Capture Science & Technology.
