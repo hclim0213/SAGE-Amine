@@ -35,5 +35,5 @@ Quantum Computing through the National Research Foundation of Korea (NRF)
 funded by the Ministry of Science and ICT (RS-2023-00257288).
 
 # How to Cite
-Lim, Hocheol, Hyein Cho, Jeonghoon Kim, and Kyoung Tai No., "SAGE-Amine: Generative Amine Design with Multi-Property Optimization for Efficient CO2 Capture" arXiv preprint arXiv:2503.02534 (2025).
+Lim, Hocheol, Hyein Cho, Jeonghoon Kim, and Kyoung Tai No, "SAGE-Amine: Generative Amine Design with Multi-Property Optimization for Efficient CO2 Capture" arXiv preprint arXiv:2503.02534 (2025).
 Accepted to publish in Carbon Capture Science & Technology.
