@@ -18,6 +18,10 @@ This is additional supplementary data in "SAGE-Amine: Generative Amine Design wi
 * pip3 install torch==1.8.1 torch-geometric==2.0.4 torch-scatter==2.0.8 torch-sparse==0.6.12 torch-cluster==1.5.9 torch-spline-conv==1.2.1 torchvision==0.9.1 dirsync==2.2.5 docrep==0.3.2 docstring-parser==0.12 more-itertools==8.8.0 pytorch-lightning==1.3.8 torchmetrics==0.6.2
 
 # Extenstion
+* SAGE (https://github.com/hclim0213/SAGE)
+* PyFingerprint (https://github.com/hcji/PyFingerprint)
+* mol2vec (https://github.com/samoturk/mol2vec)
+* guacamol (https://github.com/BenevolentAI/guacamol)
 * RAscore (https://github.com/reymond-group/RAscore)
 * SolTranNet (https://github.com/gnina/SolTranNet)
 * CoPriNet (https://github.com/oxpig/CoPriNet)
